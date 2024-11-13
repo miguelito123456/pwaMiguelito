@@ -11,25 +11,25 @@
     "lang": "es-MX",
     "icons": [
         {
-            "src": "/images/portafolio-icono-1024.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-1024.jpg",
             "sizes": "1024x1024",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-512.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-512.jpg",
             "sizes": "512x512",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-384.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-384.jpg",
             "sizes": "384x384",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-256.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-256.jpg",
             "sizes": "256x256",
             "type": "image/jpg",
             "purpose": "any"
@@ -41,37 +41,37 @@
             "purpose": "any"
         },
         {
-            "src": "./images/portafolio-icono-144.png",
+            "src": "./pwaMiguelito/images/portafolio-icono-144.png",
             "sizes": "144x144",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-128.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-128.jpg",
             "sizes": "128x128",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-96.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-96.jpg",
             "sizes": "96x96",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-64.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-64.jpg",
             "sizes": "64x64",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-32.jpg",
+            "src": "/pwaMiguelito/images/portafolio-icono-32.jpg",
             "sizes": "32x32",
             "type": "image/jpg",
             "purpose": "any"
         },
         {
-            "src": "/mipagina/images/portafolio-icono-16.png",
+            "src": "/pwaMiguelito/mipagina/images/portafolio-icono-16.png",
             "sizes": "16x16",
             "type": "image/png",
             "purpose": "any"
@@ -79,13 +79,13 @@
     ],
     "screenshots": [
         {
-            "src": "/screenshots/screenshot1.jpg",
+            "src": "/pwaMiguelito/screenshots/screenshot1.jpg",
             "sizes": "1280x720",
             "type": "image/jpg",
             "form_factor": "narrow"
         },
         {
-            "src": "/screenshots/screenshot2.jpg",
+            "src": "/pwaMiguelito/screenshots/screenshot2.jpg",
             "sizes": "1280x720",
             "type": "image/jpg",
             "form_factor": "wide"
