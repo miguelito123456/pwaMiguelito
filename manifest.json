@@ -41,7 +41,7 @@
             "purpose": "any"
         },
         {
-            "src": "/images/portafolio-icono-144.png",
+            "src": "./images/portafolio-icono-144.png",
             "sizes": "144x144",
             "type": "image/png",
             "purpose": "any"
