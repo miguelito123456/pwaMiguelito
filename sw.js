@@ -13,6 +13,7 @@ var urlsToCache = [
     "./images/portafolio-icono-192.jpg",
     "./images/portafolio-icono-256.jpg",
     "./images/portafolio-icono-384.jpg",
+    "./images/portafolio-icono-144.png",
     "./images/portafolio-icono-512.jpg",
     "./images/portafolio-icono-1024.jpg",
     "./images/smarthome.jpg",
